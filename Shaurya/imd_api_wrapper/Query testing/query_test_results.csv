@@ -1,0 +1,31 @@
+Query,Routed To,Endpoint,Priority,Keyword Match,Status,Temp C,Rain mm
+weather,General Weather Forecast,city_forecast,CRITICAL,weather,OK,35.4,0.3
+weather information,General Weather Forecast,city_forecast,CRITICAL,weather,OK,40.1,0.3
+tell me weather report,General Weather Forecast,city_forecast,CRITICAL,weather,OK,33.1,4.5
+weather forecast,General Weather Forecast,city_forecast,CRITICAL,weather,OK,40.2,2.1
+mausam ki jankari,General Weather Forecast,city_forecast,CRITICAL,mausam,OK,33.3,1.4
+weather update today,General Weather Forecast,city_forecast,CRITICAL,weather,OK,33.4,4.4
+weather in aligarh district,District Weather Forecast,district_forecast,HIGH,district,OK,43.6,3.3
+weather forecast of block tappal in district aliga,District Weather Forecast,district_forecast,HIGH,district,OK,34.9,0.1
+weather report in west midnapur district,District Weather Forecast,district_forecast,HIGH,district,OK,38.7,2.1
+weather in tikamgarh district,District Weather Forecast,district_forecast,HIGH,district,OK,39.3,0.2
+district weather forecast,District Weather Forecast,district_forecast,HIGH,district,OK,45.0,4.2
+weather of my block,District Weather Forecast,district_forecast,HIGH,block,OK,44.7,4.8
+will it rain tomorrow,Rain Forecast,rainfall_forecast,MEDIUM,rain,OK,,
+rainfall information nashik,Rain Forecast,rainfall_forecast,MEDIUM,rain,OK,,
+barish kab hogi,Rain Forecast,rainfall_forecast,MEDIUM,barish,OK,,
+rain possibility in next 5 days,Short Term Forecast,nowcast,LOW,next 5 days,OK,44.6,1.6
+monsoon forecast this year,Rain Forecast,rainfall_forecast,MEDIUM,monsoon,OK,,
+chance of rain today,Rain Forecast,rainfall_forecast,MEDIUM,rain,OK,,
+current weather condition today,Current Weather Condition,current_weather,MEDIUM,current weather,OK,36.9,1.1
+what is the weather right now,Current Weather Condition,current_weather,MEDIUM,what is the weather,OK,34.8,1.0
+aaj ka mausam kaisa hai,General Weather Forecast,city_forecast,CRITICAL,mausam,OK,35.3,1.7
+weather status in my area,Current Weather Condition,current_weather,MEDIUM,weather status,OK,44.8,0.6
+weather forecast for next 5 days,Short Term Forecast,nowcast,LOW,next 5 days,OK,42.2,1.6
+weather in coming 3 days,Short Term Forecast,nowcast,LOW,3 days,OK,34.0,1.1
+next week weather forecast,General Weather Forecast,city_forecast,CRITICAL,weather,OK,32.6,
+crop damage due to heavy rainfall,Weather Impact on Crops,agromet_advisory,LOW,crop damage,OK,,
+frost protection for mustard crop,Weather Impact on Crops,agromet_advisory,LOW,frost,OK,,
+spray after hailstorm in pea crop,Weather Impact on Crops,agromet_advisory,LOW,hailstorm,OK,,
+weather information for paddy crop irrigation,Weather Impact on Crops,agromet_advisory,LOW,irrigation,OK,,
+crop loss due to rain compensation,Weather Impact on Crops,agromet_advisory,LOW,crop loss,OK,,

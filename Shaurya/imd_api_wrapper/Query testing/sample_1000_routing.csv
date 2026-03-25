@@ -1,0 +1,1001 @@
+query,state,district,season,crop,farmer_need,endpoint_key,priority,matched_keyword,freshness_mins
+Farmer asked query on Weather,RAJASTHAN,NAGAUR,nan,Green Gram Moong Bean Moong,General Weather Forecast,city_forecast,CRITICAL,weather,360
+asked for weather report,KARNATAKA,HASSAN,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MADHYA PRADESH,UJJAIN,nan,Soybean bhat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,ODISHA,BALANGIR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,CHHATTISGARH,DURG,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MADHYA PRADESH,ANUPPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ONION VARIETY,RAJASTHAN,AJMER,nan,Wheat,General Weather Forecast,city_forecast,CRITICAL,,360
+Weather forecast in Kalahandi district and Junagarh block,ODISHA,KALAHANDI,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+Weather Information,MAHARASHTRA,SOLAPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,NAGAUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather ,HARYANA,BHIWANI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,PUNJAB,TARN TARAN,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,GUJARAT,AMRELI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+fertilizer application in cauliflower-,BIHAR,MUNGER,RABI,Tomato,General Weather Forecast,city_forecast,CRITICAL,,360
+weather information ,UTTAR PRADESH,SHAHJAHANPUR,JAYAD,Lentil Masur,General Weather Forecast,city_forecast,CRITICAL,weather,360
+  WEATHER REPORT ,ANDHRA PRADESH,GUNTUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking About Weather Forecast,MAHARASHTRA,BEED,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+information regarding weather ,PUNJAB,GURDASPUR,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asked about weather report of Turuvekere taluk,KARNATAKA,TUMKUR,nan,Others,District Weather Forecast,district_forecast,HIGH,taluk,360
+Farmer needs information regarding weather  for  ratlam   district of Madhya Pra,MADHYA PRADESH,RATLAM,0,Others,District Weather Forecast,district_forecast,HIGH,district,360
+weather report,ANDHRA PRADESH,ANANTPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,DEORIA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather information in mirzapurdistrict ,UTTAR PRADESH,MIRZAPUR,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+weather information ,UTTAR PRADESH,ALLAHABAD,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,JALAUN,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+subsidy ka rasistration karana hai,UTTAR PRADESH,BAREILLY,nan,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,,360
+Weather information is asking  ,UTTAR PRADESH,KANPUR DEHAT,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,HAPUR PANCHSHEEL NAGAR,nan,Sugarcane Noble Cane,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Please give me weather information,UTTAR PRADESH,PILIBHIT,0,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,KARNATAKA,BELGAUM,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER REPORT,KARNATAKA,DAKSHINAKANNADA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather report for tiruppur district madathukulam block for sowing ,TAMILNADU,TIRUPUR,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+Information about of weather in Block Lakhana District Etawah,UTTAR PRADESH,ETAWAH,nan,Maize Makka,District Weather Forecast,district_forecast,HIGH,district,360
+mosam ki jankari,UTTAR PRADESH,CHANDAULI,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+Farmer asked query on Weather,GUJARAT,BANAS KANTHA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information about weather forecast of Block in-Gulaothi District-Bulandshahar ,UTTAR PRADESH,BULANDSHAHAR,nan,Wheat,District Weather Forecast,district_forecast,HIGH,district,360
+Information about the weather forecast of Block-Gonda in District -Gonda,UTTAR PRADESH,GONDA,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+Weather information is asking ,UTTAR PRADESH,FATEHPUR,JAYAD,Sugarcane Noble Cane,General Weather Forecast,city_forecast,CRITICAL,weather,360
+ASKED ABOUT WEATHER FORECASTING ,UTTAR PRADESH,SIDDHARTH NAGAR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,SAHARANPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,AMBALA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+ask about the general information,GUJARAT,SURENDRANAGAR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+Farmer want to where is soil testing laboratory,MADHYA PRADESH,DEWAS,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+Farmer asked query on Weather,MAHARASHTRA,SOLAPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+inquired about weather condition in the area of basmat of hingoli district,MAHARASHTRA,HINGOLI,nan,Cotton Kapas,Current Weather Condition,current_weather,MEDIUM,weather condition,60
+plz tell me weather information,UTTAR PRADESH,BASTI,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Give me weather information in district Shahjahanpur ,UTTAR PRADESH,SHAHJAHANPUR,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+Farmer needs information regarding weather for rehli block in sagar   district o,MADHYA PRADESH,SAGAR,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+Farmer asked query on Weather,MAHARASHTRA,AHMADNAGAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME WEATHER INFORMETION,RAJASTHAN,JALOR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,MAHENDRA GARH,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather forecasting,PUNJAB,BHATINDA,0,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather forecast,JAMMU AND KASHMIR,BADGAM,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,SIRSA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,JALOR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather in jind,HARYANA,JIND,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,BIHAR,MADHUBANI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER REPORT,KARNATAKA,BELLARY,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather information of district Hamirpur ,UTTAR PRADESH,HAMIRPUR,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+mausam ki jankari leni h,UTTAR PRADESH,ETAWAH,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,mausam,360
+incomplete call,UTTAR PRADESH,GORAKHPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+Farmer asked query on Weather,BIHAR,BUXAR,nan,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,WEST BENGAL,HOOGHLY,nan,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,NAGAUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MAHARASHTRA,PUNE,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,RAJSAMAND,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer Asked About Weather Forecast OF KINWAT  Block   ,MAHARASHTRA,NANDED,nan,Others,District Weather Forecast,district_forecast,HIGH,block,360
+Farmer asked query on Weather,BIHAR,SIWAN,nan,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+asking about weather information,UTTAR PRADESH,BADAUN,RABI,Wheat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER,MAHARASHTRA,NASIK,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Chlorotic spots on the leaves which latter coalesce forming irregular yellowing ,BIHAR,PURNEA,RABI,Others,Weather Impact on Crops,agromet_advisory,LOW,yellowing,1440
+Farmer asked query on Weather,MADHYA PRADESH,EAST NIMAR,nan,Soybean bhat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,SHAHJAHANPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME WEATHER INFORMATION,RAJASTHAN,JALOR,JAYAD,Wheat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather of Hisar ,HARYANA,HISSAR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather karnal ,HARYANA,KARNAL,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather today of Hamirpur ,HIMACHAL PRADESH,HAMIRPUR,RABI,Others,Current Weather Condition,current_weather,MEDIUM,weather today,60
+WEATHER,BIHAR,SAMASTIPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,BIHAR,PURBA CHAMPARAN,nan,Wheat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+asked for :WEATHER REPORT OF HASSAN,KARNATAKA,HASSAN,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+plz tell me weather information for auraiya dist,UTTAR PRADESH,AURAIYA,nan,Others,District Weather Forecast,district_forecast,HIGH,dist,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,PRATAPGARH,nan,Wheat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather,BIHAR,ROHTAS,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER CONDITION IN UNNAO ,UTTAR PRADESH,UNNAO,RABI,Wheat,Current Weather Condition,current_weather,MEDIUM,weather condition,60
+weather information,BIHAR,SAMASTIPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,JODHPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER INFORMATION,BIHAR,ROHTAS,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast,MAHARASHTRA,BULDANA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+ information regarding weather forecasting ,PUNJAB,TARN TARAN,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather information about Lalitpur ,UTTAR PRADESH,LALITPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MADHYA PRADESH,MANDSAUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+INFORMATION REGARDING WEATHER ,PUNJAB,PATIALA,RABI,Wheat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,KARNATAKA,BELLARY,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asked about weather forecast of Digras tehsil,MAHARASHTRA,YEVATMAL,nan,Others,District Weather Forecast,district_forecast,HIGH,tehsil,360
+Farmer asked query on Weather,MAHARASHTRA,HINGOLI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+mausam ki jankari,UTTAR PRADESH,LALITPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,mausam,360
+Rainfall forecast,ODISHA,BARGARH,nan,Others,Rain Forecast,rainfall_forecast,MEDIUM,rain,180
+Farmer asked query on Weather,RAJASTHAN,CHURU,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,CHURU,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather report,KARNATAKA,CHIKMAGALUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MAHARASHTRA,SATARA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+information regarding weather forecastingweather is clear and no chances of rain,PUNJAB,BHATINDA,nan,Others,Rain Forecast,rainfall_forecast,MEDIUM,rain,180
+weather information,BIHAR,KISHANGANJ,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+information regarding weather forecasting,PUNJAB,LUDHIANA,nan,Wheat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,PUNJAB,MUKTSAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+information regarding weather forecasting,PUNJAB,TARN TARAN,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,WEST BENGAL,MURSHIDABAD,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,DEORIA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,DELHI,New Delhi Connaught Place,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer needs information regarding weather information for raj nandgaon  distric,CHHATTISGARH,RAJ NANDGAON,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+Farmer asked query on Weather,PUNJAB,HOSHIARPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Werther information in districtBhadoi,UTTAR PRADESH,SANT RAVIDAS NAGAR BHADOHI,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+Farmer asked query on Weather,UTTAR PRADESH,KANPUR DEHAT,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+ Information regarding weather forecasting ,PUNJAB,MOGA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+want to know about weather report ,UTTAR PRADESH,JAUNPUR,KHARIF,Brinjal,General Weather Forecast,city_forecast,CRITICAL,weather,360
+mausam ki jankari ,UTTAR PRADESH,SAMBAL BHIM NAGAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,mausam,360
+information regarding weather forecasting,PUNJAB,HOSHIARPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MAHARASHTRA,WASHIM,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather information of Narora Bulandshahar,UTTAR PRADESH,BULANDSHAHAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather in sirsa,HARYANA,SIRSA,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+farmer wants to knows information about weather forecasting,MADHYA PRADESH,RAJGARH,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+ASKED ABOUT WEATHER FORECASTING ,UTTAR PRADESH,SULTANPUR,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+ASKING ABOUT WEATHER REPORT IN BARDDHAMAN DISTRICT BURDWAN-2 BLOCK  ,WEST BENGAL,BARDDHAMAN,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+Farmer asked query on Weather,PUNJAB,TARN TARAN,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MAHARASHTRA,BULDANA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,BIKANER,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,MIRZAPUR,nan,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER,KARNATAKA,BELGAUM,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,JAMMU AND KASHMIR,SHUPIYAN,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Blank  Call,UTTAR PRADESH,ALIGARH,nan,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,JAIPUR,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather information ,UTTAR PRADESH,AURAIYA,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,NAGAUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,BHARATPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+information regarding weather forecasting,PUNJAB,BHATINDA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+asked about weather report,KARNATAKA,DAVANAGERE,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+ATHNI WEATHER REPORT,KARNATAKA,BELGAUM,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Ask about weather information,GUJARAT,Devbhoomi Dwarka,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,ANDHRA PRADESH,KURNOOL,nan,Chillies,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather information in Bahraich District,UTTAR PRADESH,BAHRAICH,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,BARMER,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,JODHPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,JHALAWAR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+mousam ki janakari de,UTTARAKHAND,CHAMOLI,JAYAD,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,,360
+REGARDING WEATHER REPORT ,JAMMU AND KASHMIR,BADGAM,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast  ,MAHARASHTRA,JALGAON,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast,MAHARASHTRA,NANDED,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather information,BIHAR,ROHTAS,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather forecast for ratanpur tehshil chhattisgarh ,CHHATTISGARH,BILASPUR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather forecast in Kendrapada district at Kendrapada block,ODISHA,KENDRAPARA,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+ Please Give Me Weather Information In Etah At Jalesar,UTTAR PRADESH,ETAH,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,ANDHRA PRADESH,ANANTPUR,nan,Bengal Gram GramChick PeaKabuliChana,General Weather Forecast,city_forecast,CRITICAL,weather,360
+ASKING ABOUT WEATHER ,UTTAR PRADESH,KUSHI NAGAR,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+information regarding weather forecasting,PUNJAB,JALANDHAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather information,UTTAR PRADESH,HAMIRPUR,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather information ,UTTAR PRADESH,ALLAHABAD,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME INSECT CONTROL IN GRAM ,RAJASTHAN,KOTA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+Weather Forecast,MAHARASHTRA,YEVATMAL,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Please give me weather information,UTTAR PRADESH,BAREILLY,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+rainfall,KARNATAKA,TUMKUR,nan,Others,Rain Forecast,rainfall_forecast,MEDIUM,rain,180
+Information regarding the weather forecasting in District Faridkotblock-kot kapu,PUNJAB,FARIDKOT,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,CHURU,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,BHILWARA,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+asking about avinasi weather report,TAMILNADU,TIRUPUR,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+farmer want to know about weather phenomena,UTTAR PRADESH,BAREILLY,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+mysore,KARNATAKA,MYSORE,nan,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+SOLUTION ALREADY PROPOSED,GUJARAT,AHMADABAD,nan,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+Information about weather forecast Block-babina in district -jhansi,UTTAR PRADESH,JHANSI,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+ Information about weather forecast of block- Baldeo in district-Mathura,UTTAR PRADESH,MATHURA,nan,Paddy Dhan,District Weather Forecast,district_forecast,HIGH,district,360
+farmer want to know information about weather of your district ,MADHYA PRADESH,GUNA,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+Farmer asked query on Weather,ANDHRA PRADESH,ANANTPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,FATEHABAD,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,KARAULI,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,KARNATAKA,DHARWAD,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,GANGANAGAR,nan,Wheat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about Weather information,MAHARASHTRA,BULDANA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information about weather forecast of Block  rasulabadin District kanpur dehat,UTTAR PRADESH,KANPUR DEHAT,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+Farmer asked query on Weather,ODISHA,BARGARH,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather information ,UTTAR PRADESH,AZAMGARH,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+information regarding for weather ,PUNJAB,KAPURTHALA,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER RELATED INFORMATION,UTTAR PRADESH,PILIBHIT,KHARIF,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast,MAHARASHTRA,JALNA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,GORAKHPUR,nan,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+mausam ki jankari,UTTAR PRADESH,KANPUR DEHAT,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,mausam,360
+Asking about Weather information,MAHARASHTRA,AHMADNAGAR,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,JODHPUR,RABI,Barley Jau,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather report in khandwa ,MADHYA PRADESH,EAST NIMAR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+information of weather,UTTAR PRADESH,FATEHPUR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather information,UTTAR PRADESH,SAMBAL BHIM NAGAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast  ,MAHARASHTRA,JALGAON,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER FORECAST IN MURSHIDABAD  DISTRICT AT BURWAN   BLOCK,WEST BENGAL,MURSHIDABAD,nan,Paddy Dhan,District Weather Forecast,district_forecast,HIGH,district,360
+TELL ME WEATHER  INFORMATION ,RAJASTHAN,CHURU,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,ANDHRA PRADESH,KURNOOL,nan,Cotton Kapas,General Weather Forecast,city_forecast,CRITICAL,weather,360
+mausam ki jankari,UTTAR PRADESH,JAUNPUR,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,mausam,360
+weather,GUJARAT,PORBANDAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,GUJARAT,KACHCHH,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+mausam ki jankari,UTTAR PRADESH,JHANSI,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,mausam,360
+Farmer wants to know information about weather in district,MADHYA PRADESH,MANDSAUR,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+TELL ME WEATHER INFORMATION,RAJASTHAN,JHALAWAR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,JHALAWAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,CHURU,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MAHARASHTRA,NANDED,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asked about Weather of  District belgaum and taluk athani ,KARNATAKA,BELGAUM,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+WEATHER FORECAST,JAMMU AND KASHMIR,ANANTNAG,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,HANUMANGARH,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,KHERI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather information ,UTTAR PRADESH,ALIGARH,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+asked about WEATHER INFORMATION,MAHARASHTRA,SATARA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Please give me Weather information in Kaushambi  ,UTTAR PRADESH,KAUSHAMBI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,LUCKNOW,nan,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,TAMILNADU,THANJAVUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information about weather forecast of blockgursarai   in Districtjhansi  ,UTTAR PRADESH,JHANSI,nan,Paddy Dhan,District Weather Forecast,district_forecast,HIGH,district,360
+Farmer asked query on Weather,GUJARAT,BANAS KANTHA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+asking abt weather info,GUJARAT,PORBANDAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,MUZAFFARNAGAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,BHIWANI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+INFORMATION REGARDING WEATHER  ,PUNJAB,HOSHIARPUR,nan,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about Weather forecasting for Thiruppur district,TAMILNADU,TIRUPUR,0,Others,District Weather Forecast,district_forecast,HIGH,district,360
+Ask about weather information,GUJARAT,Mehsana,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,ODISHA,CUTTACK,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather information ,UTTAR PRADESH,MIRZAPUR,KHARIF,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather report,KARNATAKA,BELLARY,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,SIKAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER REPORT,ANDHRA PRADESH,KURNOOL,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+FARMER ASKING ABOUT WEATHER FORECAST OF MAHAGAON TAHSIL,MAHARASHTRA,YEVATMAL,nan,Others,District Weather Forecast,district_forecast,HIGH,tahsil,360
+INFORMATION REGARDING THE WEATHER CONDITION ,PUNJAB,FATEHGARH SAHIB,nan,Others,Current Weather Condition,current_weather,MEDIUM,weather condition,60
+Farmer asked query on Weather,HARYANA,HISSAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME WEATHER RAINFALL,RAJASTHAN,JODHPUR,RABI,Others,Rain Forecast,rainfall_forecast,MEDIUM,rain,180
+information regarding control of weeds in wheat ,PUNJAB,KAPURTHALA,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+Farmer asked query on Weather,MAHARASHTRA,BULDANA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather information ,UTTAR PRADESH,SITAPUR,RABI,Bengal Gram GramChick PeaKabuliChana,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,SIRSA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+  Weather information in sitapur District   ,UTTAR PRADESH,SITAPUR,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+Weather information ,UTTAR PRADESH,SAMBAL BHIM NAGAR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+information regarding weather forecasting,PUNJAB,SANGRUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+INFORMATION REGARDING  WEATHER ,PUNJAB,GURDASPUR,RABI,Wheat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,GANGANAGAR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,PUNJAB,MANSA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather ,UTTAR PRADESH,LALITPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information about the weather forecast of Block  Aghwanpur  in the District   Mo,UTTAR PRADESH,MORADABAD,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+weather information  ,UTTAR PRADESH,MEERUT,KHARIF,Chillies,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,ODISHA,KHORDHA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,GURGAON,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather information in raebareli,UTTAR PRADESH,RAEBARELI,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,FATEHABAD,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MADHYA PRADESH,SHIVPURI,nan,Maize Makka,General Weather Forecast,city_forecast,CRITICAL,weather,360
+INFORMATION REGARDING WEATHER OF SANGRUR,PUNJAB,SANGRUR,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,WEST BENGAL,BARDDHAMAN,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,PUNJAB,BHATINDA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,TONK,nan,Mustard,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,GURGAON,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MADHYA PRADESH,SAGAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+INFORMATION REGARDING WEATHER FORECASTS ,PUNJAB,GURDASPUR,KHARIF,fodder sorghum,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME SUBSIDY ON  SPRINKLER  SYSTEM   ,RAJASTHAN,JHALAWAR,0,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+Information about Flag disease control in paddy crops ,UTTAR PRADESH,ALIGARH,nan,Paddy Dhan,Weather Impact on Crops,agromet_advisory,LOW,paddy crop,1440
+Weather information of shergarh  district bareilly   ,UTTAR PRADESH,BAREILLY,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+Information regarding weather in jind,HARYANA,JIND,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+farmer want to know information about weather in  rajgarh dist ,MADHYA PRADESH,RAJGARH,RABI,Others,District Weather Forecast,district_forecast,HIGH,dist,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,BARMER,KHARIF,Pearl Millet BajraBulrush MilletSpiked Millet,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asked for weather report,KARNATAKA,YADAGIRI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER FORECAST,JAMMU AND KASHMIR,BARAMULLA,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+mausam ki jankari,UTTAR PRADESH,BARABANKI,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,mausam,360
+ASKING FOR WEATHER REPORT OF BAAGEPALLI,KARNATAKA,CHIKKABALLAPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,KARAULI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer needs information regarding weather for betul district of state madhya pr,MADHYA PRADESH,BETUL,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+Farmer asked query on Weather,MADHYA PRADESH,NEEMUCH,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+asking about weather ,UTTAR PRADESH,BIJNOR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,ANDHRA PRADESH,KURNOOL,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER INFORMATION,BIHAR,GAYA,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,WEST BENGAL,BIRBHUM,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about Weather Forecast ,MAHARASHTRA,PUNE,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER CONDITION,WEST BENGAL,BANKURA,JAYAD,Paddy Dhan,Current Weather Condition,current_weather,MEDIUM,weather condition,60
+weather information of raebareilly ,UTTAR PRADESH,RAEBARELI,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,PUNJAB,GURDASPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER INFORMATION :,ANDHRA PRADESH,EAST GODAVARI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,JAMMU AND KASHMIR,REASI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+MAUSAM KE BARE ME BATAYE ,UTTAR PRADESH,KANSHIRAM NAGAR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,mausam,360
+Farmer asked query on Weather,BIHAR,NALANDA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+rf,KARNATAKA,TUMKUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+weather report,KARNATAKA,CHIKKABALLAPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather forcast,MAHARASHTRA,AKOLA,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,JAISALMER,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER REPORT OF DOMKALMURSHIDABAD,WEST BENGAL,MURSHIDABAD,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather in hisar  ,HARYANA,HISSAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,BIHAR,BANKA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,JAISALMER,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather report for Thirunelveli district,TAMILNADU,TIRUNELVELI,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+Asked About Weather Forecast,MAHARASHTRA,SOLAPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,JHARKAND,HAZARIBAGH,nan,Potato,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,TELANGANA,SURYAPET,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,BARMER,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+tell me about weather information ,UTTAR PRADESH,ETAWAH,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,JODHPUR,KHARIF,Pearl Millet BajraBulrush MilletSpiked Millet,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather information,UTTAR PRADESH,BADAUN,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather in yamunanagar ,HARYANA,YAMUNA NAGAR,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,PUNJAB,FATEHGARH SAHIB,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+asked about weather report,KARNATAKA,MYSORE,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,AMBEDKAR NAGAR,nan,Wheat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MADHYA PRADESH,RAISEN,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather report for salem,TAMILNADU,SALEM,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather forecasting,PUNJAB,LUDHIANA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+mausam ki jankari leni hai,UTTAR PRADESH,GHAZIPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,mausam,360
+Farmer asked query on Weather,WEST BENGAL,MURSHIDABAD,nan,Jute,General Weather Forecast,city_forecast,CRITICAL,weather,360
+ WEATHER FORECAST ,JAMMU AND KASHMIR,BARAMULLA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer needs information regarding collection method of soil sample for soil tes,MADHYA PRADESH,SHIVPURI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+Information about weather forecast of block nagra in district ballia  ,UTTAR PRADESH,BALLIA,nan,Wheat,District Weather Forecast,district_forecast,HIGH,district,360
+Farmer wants to know information about weather of their  khandwa district,MADHYA PRADESH,EAST NIMAR,RABI,Others,District Weather Forecast,district_forecast,HIGH,district,360
+Farmer asked query on Weather,WEST BENGAL,MALDAH,nan,Potato,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,BARMER,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MADHYA PRADESH,SHIVPURI,nan,Soybean bhat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer wants to know information about weather of their   district,MADHYA PRADESH,UJJAIN,RABI,Bengal Gram GramChick PeaKabuliChana,District Weather Forecast,district_forecast,HIGH,district,360
+Farmer asked query on Weather,HARYANA,REWARI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast,MAHARASHTRA,SOLAPUR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,ODISHA,NAWORANGPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MAHARASHTRA,AHMADNAGAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather report ,UTTAR PRADESH,KANPUR DEHAT,KHARIF,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast ,MAHARASHTRA,PARBHANI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+farmer want to know information about weather forcast in datia  your  distt,MADHYA PRADESH,DATIA,JAYAD,Others,District Weather Forecast,district_forecast,HIGH,distt,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,NAGAUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+information regarding weather forecasting,PUNJAB,PATHANKOT,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,TAMILNADU,VILLUPPURAM,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,JAMMU AND KASHMIR,JAMMU,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,ODISHA,BARGARH,nan,Chillies,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MADHYA PRADESH,WEST NIMAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+About weather information  ,UTTAR PRADESH,SITAPUR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HIMACHAL PRADESH,SHIMLA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,GANGANAGAR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast,MAHARASHTRA,AHMADNAGAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+INFORMATION REGARDING WEATHER WEATHER REMAIN CLEAR TODAY,PUNJAB,MOGA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,DAUSA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MADHYA PRADESH,SHIVPURI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER INFORMATIONS,BIHAR,MADHUBANI,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Ask about weather information,GUJARAT,BANAS KANTHA,0,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER,KARNATAKA,BIJAPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather information ,UTTAR PRADESH,KAUSHAMBI,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+INFORMATION REGARDING WEATHER IN HISSAR ,HARYANA,HISSAR,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather information,UTTAR PRADESH,BAHRAICH,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weedside,MAHARASHTRA,JALNA,JAYAD,Wheat,General Weather Forecast,city_forecast,CRITICAL,,360
+Farmer asked query on Weather,KARNATAKA,RAICHUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Ask about weather information,GUJARAT,PORBANDAR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,REWARI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER INFORMATION,BIHAR,PASHCHIM CHAMPARAN,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,CHHATTISGARH,Bemetara,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,KARNATAKA,GULBARGA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,BIHAR,BUXAR,nan,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asked about weather report of District   and taluk,KARNATAKA,RAICHUR,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+weather,BIHAR,PURNEA,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast  ,MAHARASHTRA,NASIK,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asked about weather report of taluk ,KARNATAKA,RAICHUR,nan,Others,District Weather Forecast,district_forecast,HIGH,taluk,360
+Information about weather forecast of Block -- in District -farrukhabad--,UTTAR PRADESH,FARRUKHABAD,nan,Potato,District Weather Forecast,district_forecast,HIGH,district,360
+Farmer asked query on Weather,MAHARASHTRA,BULDANA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather Report,MAHARASHTRA,JALGAON,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MADHYA PRADESH,AGAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,REWARI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer needs information regarding weather for Nowgong Block of state madhya pra,MADHYA PRADESH,CHHATARPUR,nan,Others,District Weather Forecast,district_forecast,HIGH,block,360
+Farmer asked query on Weather,MADHYA PRADESH,TIKAMGARH,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,FATEHABAD,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,HANUMANGARH,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME WEATHER INFORMATION,RAJASTHAN,BARMER,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+ASKING ABOUT WEATHER INFORMATION,UTTAR PRADESH,SAHARANPUR,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,WEST BENGAL,BANKURA,nan,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER INFORMATION OF DIST JHANSI  ,UTTAR PRADESH,JHANSI,nan,Others,District Weather Forecast,district_forecast,HIGH,dist,360
+Farmer asked query on Weather,MAHARASHTRA,NANDED,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer wants to know information about weather forecast ,MADHYA PRADESH,MORENA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+ASKED ABOUT   CURRENT WEATHER,ANDHRA PRADESH,EAST GODAVARI,KHARIF,Others,Current Weather Condition,current_weather,MEDIUM,current weather,60
+information regarding weather forecasting,PUNJAB,MUKTSAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,PUNJAB,PATIALA,nan,African Sarson,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,JAMMU AND KASHMIR,PULWAMA,nan,Apple,General Weather Forecast,city_forecast,CRITICAL,weather,360
+mausam ke bare me janna hai,UTTAR PRADESH,HAMIRPUR,nan,Horse Gram kulthikultha,General Weather Forecast,city_forecast,CRITICAL,mausam,360
+Farmer asked query on Weather,ANDHRA PRADESH,ANANTPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather in bhiwani,HARYANA,BHIWANI,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather Information,MAHARASHTRA,PUNE,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,HISSAR,nan,Cotton Kapas,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER INFORMATION ,UTTAR PRADESH,KANPUR DEHAT,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER,BIHAR,DARBHANGA,nan,Cauliflower,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,AJMER,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,BIHAR,ARARIA,nan,Maize Makka,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,ODISHA,BARGARH,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,BARMER,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather forecast,MAHARASHTRA,JALNA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Today and tomorrow little chance of rain  2        ,BIHAR,KISHANGANJ,KHARIF,Others,Rain Forecast,rainfall_forecast,MEDIUM,rain,180
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,HANUMANGARH,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+MAUSAM KI JANKARI DE,UTTAR PRADESH,FATEHPUR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,mausam,360
+Farmer asked query on Weather,UTTAR PRADESH,ALIGARH,nan,Potato,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,GANGANAGAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,JODHPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME WEATHER INFORMATION ,RAJASTHAN,BARMER,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+asked about weather report,KARNATAKA,CHIKKABALLAPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+MAUSAM KE BARE ME BATAYE GEHU ME SICHAI KARNI HAI,UTTAR PRADESH,BARABANKI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,mausam,360
+Farmer asked query on Weather,HARYANA,KAITHAL,nan,Wheat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asked  about weather report  of Chamrajnagar taluk,KARNATAKA,CHAMARAJANAGAR,nan,Others,District Weather Forecast,district_forecast,HIGH,taluk,360
+Plant protection of Sugarcane ,UTTAR PRADESH,SITAPUR,KHARIF,Sugarcane Noble Cane,General Weather Forecast,city_forecast,CRITICAL,,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,CHITTAURGARH,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast,MAHARASHTRA,JALGAON,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,GANGANAGAR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Please give me weather information,UTTAR PRADESH,GHAZIPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+farmer want to know information about weather,MADHYA PRADESH,TIKAMGARH,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,HISSAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MAHARASHTRA,AURANGABAD,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,GUJARAT,AMRELI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER INFORMATION,BIHAR,VAISHALI,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+DBT,BIHAR,SAHARSA,0,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,BANSWARA,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER FORECAST ,JAMMU AND KASHMIR,RAMBAN,0,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HIMACHAL PRADESH,SOLAN,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,JODHPUR,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,JODHPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather information of Mainpuri,UTTAR PRADESH,MAINPURI,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER FORECAST ,JAMMU AND KASHMIR,BARAMULLA,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT  WEATHER INFORMATION ,RAJASTHAN,NAGAUR,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,HANUMANGARH,nan,Guar,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME WEATHER FORECASTING,RAJASTHAN,HANUMANGARH,KHARIF,Pearl Millet BajraBulrush MilletSpiked Millet,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME WEATHER INFORMETION,RAJASTHAN,JALOR,nan,Green Gram Moong Bean Moong,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,DAUSA,0,nan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather information,JAMMU AND KASHMIR,BADGAM,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather of RAICHUR,KARNATAKA,RAICHUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information  regarding weather of ,HARYANA,KURKSHETRA,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,SIKAR,RABI,Barley Jau,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast,MAHARASHTRA,BULDANA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+I want to registerd in my number ,MADHYA PRADESH,RAJGARH,KHARIF,Wheat,General Weather Forecast,city_forecast,CRITICAL,,360
+Weather forecast Madhepura  and Murliganj,BIHAR,MADHEPURA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,ANDHRA PRADESH,KURNOOL,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather information ,UTTAR PRADESH,AMETHI  Shahu Ji Maharaj,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer wants to know information about weather forecast of district Khandwatehsi,MADHYA PRADESH,EAST NIMAR,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+Information about weather forecast of Block Singramau in distJaunpur,UTTAR PRADESH,JAUNPUR,nan,Paddy Dhan,District Weather Forecast,district_forecast,HIGH,block,360
+Farmer asked query on Weather,UTTAR PRADESH,MAINPURI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast of chandur bazar block ,MAHARASHTRA,AMRAVATI,nan,Others,District Weather Forecast,district_forecast,HIGH,block,360
+Farmer asked query on Weather,UTTAR PRADESH,MAHOBA,nan,Groundnut pea nutmung phalli,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer needs information regarding Weather forecast for 5 days of Wadrafnagar Bl,CHHATTISGARH,Balrampur,nan,Others,Short Term Forecast,nowcast,LOW,5 days,180
+Farmer asked query on Weather,RAJASTHAN,HANUMANGARH,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about Thanjavur weather Report,TAMILNADU,THANJAVUR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather forecast,MAHARASHTRA,BULDANA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+INFORMATION REGARDING WEATHER,PUNJAB,MUKTSAR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,BIHAR,GAYA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,BADAUN,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer ask weather information,UTTAR PRADESH,JYOTIBA PHULE NAGAR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MADHYA PRADESH,SEHORE,nan,Wheat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+ABOUT  ASKED WEATHER INFORMATION ,UTTAR PRADESH,SHIVASTI,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather forecast information of   Shivpuri,MADHYA PRADESH,SHIVPURI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,NAGAUR,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather,KARNATAKA,MANDYA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,NAGAUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather in Fatebahad ,HARYANA,FATEHABAD,KHARIF,Cotton Kapas,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,ANDHRA PRADESH,KURNOOL,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer needs information regarding  weather for Lahar Block of  Bhind  District ,MADHYA PRADESH,BHIND,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+WEATHER REPORT,ANDHRA PRADESH,KURNOOL,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER REPORTC,KARNATAKA,BIDAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,ALLAHABAD,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+climate info,MAHARASHTRA,AMRAVATI,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,climate,360
+Farmer want to know information about damoh  weather forecasting,MADHYA PRADESH,DAMOH,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,GUJARAT,BHAVNAGAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding Weather Today in Haroli Tehsil ,HIMACHAL PRADESH,UNA,JAYAD,Others,Current Weather Condition,current_weather,MEDIUM,weather today,60
+Asked about weather report,MAHARASHTRA,BHANDARA,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Fungal infaction of mustard crop ,UTTAR PRADESH,KUSHI NAGAR,RABI,Mustard,Weather Impact on Crops,agromet_advisory,LOW,mustard crop,1440
+information regarding late sown varieties of wheat ,PUNJAB,HOSHIARPUR,nan,Wheat,General Weather Forecast,city_forecast,CRITICAL,,360
+information regarding fertilizer dose in wheat ,PUNJAB,FEROZPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+Asking about weather forecast,MAHARASHTRA,JALGAON,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+ASKED ABOUT THE WEATHER REPORT,KARNATAKA,BELLARY,0,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer wants to know about weather information,MADHYA PRADESH,SEONI,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather information is asking ,UTTAR PRADESH,LALITPUR,JAYAD,Black Gram urd bean,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast,MAHARASHTRA,YEVATMAL,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking About Weather Forecast ,MAHARASHTRA,PARBHANI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding  weather forecasting ,PUNJAB,FAZILKA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER INFORMATION,BIHAR,ROHTAS,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HIMACHAL PRADESH,MANDI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather in ,HARYANA,KURKSHETRA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,NAGAUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME WEATHER INFORMATION ,RAJASTHAN,JHALAWAR,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,JALOR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,SIKAR,nan,Groundnut pea nutmung phalli,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,PUNJAB,FAZILKA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME RAIN FORCASTING,RAJASTHAN,JHUNJHUNU,KHARIF,Others,Rain Forecast,rainfall_forecast,MEDIUM,rain,180
+asked about weather reportof harapanahalli,KARNATAKA,DAVANAGERE,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather Information ,UTTAR PRADESH,ETAH,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer want to know information about   weather forecast ,MADHYA PRADESH,SAGAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+agri clinic ki training kar raha hunbank se loan kaise milega,UTTAR PRADESH,CHANDAULI,KHARIF,Others,Rain Forecast,rainfall_forecast,MEDIUM,rain,180
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,CHURU,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,HANUMANGARH,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MAHARASHTRA,BEED,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,AJMER,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information of weather ,UTTAR PRADESH,SONBHADRA,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+MAUSAM KI JAAN KARI CHAHIYE,UTTAR PRADESH,JAUNPUR,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,mausam,360
+Farmer asked query on Weather,MAHARASHTRA,NANDED,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+rf,KARNATAKA,GULBARGA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+Farmer asked query on Weather,PUNJAB,BHATINDA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,TONK,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,JIND,nan,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,GHAZIPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,NAGAUR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER INFORMATION : ,ANDHRA PRADESH,ANANTPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,MAHENDRA GARH,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather in Sonipat,HARYANA,SONEPAT,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer needs information regarding weather information for kotma subdistrict Mad,MADHYA PRADESH,ANUPPUR,KHARIF,Others,District Weather Forecast,district_forecast,HIGH,district,360
+belgaum,KARNATAKA,BELGAUM,nan,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+weather details in dumka,JHARKAND,DUMKA,0,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,PRATAPGARH,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME WEATHER INFORMATION OF NAGOUR DIST,RAJASTHAN,NAGAUR,KHARIF,Wheat,District Weather Forecast,district_forecast,HIGH,dist,360
+asked about weather report,KARNATAKA,CHITRADURGA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+ANY CONTACT NUMBER OF WEATHER,UTTAR PRADESH,JALAUN,RABI,Sugarcane Noble Cane,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,WEST BENGAL,NADIA,nan,Brinjal,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,KARNAL,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,JHALAWAR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+challakere weather report,KARNATAKA,CHITRADURGA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Rainfall forecast for Bhubaneswar region,ODISHA,KHORDHA,nan,Others,Rain Forecast,rainfall_forecast,MEDIUM,rain,180
+Ask about weather information,GUJARAT,BHAVNAGAR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer needs information regarding weather information for his district of state,MADHYA PRADESH,NARSIMPUR,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+Farmer asked query on Weather,RAJASTHAN,BARMER,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME WEATHER INFORMATION,RAJASTHAN,CHURU,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast ,MAHARASHTRA,SANGLI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+regarding weather forecast,JAMMU AND KASHMIR,PUNCH,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,TAMILNADU,KALLAKURICHI,nan,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather report,KARNATAKA,BIJAPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+information regarding weather forecasting,PUNJAB,TARN TARAN,KHARIF,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,BARMER,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+ASKED FOR WEATHER REPORT,KARNATAKA,RAICHUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,JHALAWAR,nan,Pearl Millet BajraBulrush MilletSpiked Millet,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather information is asking  ,UTTAR PRADESH,MAHARAHGANJ,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Mausam ki jankari leni hai,UTTAR PRADESH,SULTANPUR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,mausam,360
+Information of weather,UTTAR PRADESH,RAMPUR,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,BIHAR,ARARIA,nan,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,FIROZABAD,nan,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,KHERI,nan,Sugarcane Noble Cane,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information about weather forecast of Block Kundanganj in District Raebareli  ,UTTAR PRADESH,RAEBARELI,nan,Potato,District Weather Forecast,district_forecast,HIGH,district,360
+Farmer asked query on Weather,CHHATTISGARH,BalodaBazar,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather in hisar,HARYANA,HISSAR,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Give me weather information ,UTTAR PRADESH,BADAUN,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,BARMER,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MADHYA PRADESH,EAST NIMAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,KARAULI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,KURKSHETRA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER INFORMATION,BIHAR,SAHARSA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information about  weather forecast of Block Khudaganj in District Shahjahanpur ,UTTAR PRADESH,SHAHJAHANPUR,nan,Wheat,District Weather Forecast,district_forecast,HIGH,district,360
+Weather information of Kasganj district,UTTAR PRADESH,KANSHIRAM NAGAR,0,Others,District Weather Forecast,district_forecast,HIGH,district,360
+Farmer asked query on Weather,RAJASTHAN,DHAULPUR,nan,Bengal Gram GramChick PeaKabuliChana,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer needs information regarding weather of Udaipura  block of state Madhya Pr,MADHYA PRADESH,RAISEN,nan,Others,District Weather Forecast,district_forecast,HIGH,block,360
+Give me weather information ,UTTAR PRADESH,JHANSI,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,JODHPUR,0,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,JAISALMER,nan,Guar,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,KARNATAKA,BELGAUM,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER INFORMATION,BIHAR,SUPAUL,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,AMBALA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about Weather information,MAHARASHTRA,BEED,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,BARAN,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,AGRA,nan,Pearl Millet BajraBulrush MilletSpiked Millet,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer wants to know information about weather forecast ,MADHYA PRADESH,SAGAR,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,NAGAUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather  of  sirsa ,HARYANA,SIRSA,KHARIF,Cotton Kapas,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Pls give me weather information,UTTAR PRADESH,GORAKHPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+KALGHATGI WEATHER REPORT,KARNATAKA,DHARWAD,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer want to Weather forecasting,MADHYA PRADESH,PANNA,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast,MAHARASHTRA,NANDED,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer needs information regarding weather for khurai block in sagar   district ,MADHYA PRADESH,SAGAR,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+mosam ki jankari,UTTAR PRADESH,ALLAHABAD,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+Farmer asked query on Weather,HARYANA,ROHTAK,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Ask for the weather condition,GUJARAT,PORBANDAR,nan,Others,Current Weather Condition,current_weather,MEDIUM,weather condition,60
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,GANGANAGAR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather information,BIHAR,ARARIA,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,HANUMANGARH,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,CHHATTISGARH,Balod,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information about weather forecast in block in Sarila district Hamirpur,UTTAR PRADESH,HAMIRPUR,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+Information regarding weather ,HARYANA,FATEHABAD,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer wants to know information about weather forecast in your distt,MADHYA PRADESH,SAGAR,nan,Others,District Weather Forecast,district_forecast,HIGH,distt,360
+Farmer asked query on Weather,UTTAR PRADESH,PRATAPGARH,nan,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather ,HARYANA,JHAJJAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,AZAMGARH,nan,Sugarcane Noble Cane,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast  ,MAHARASHTRA,NASIK,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,ANDHRA PRADESH,KRISHNA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MAHARASHTRA,NANDED,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast,MAHARASHTRA,YEVATMAL,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Yellowing of leavesfungal problem,BIHAR,ARARIA,nan,Others,Weather Impact on Crops,agromet_advisory,LOW,yellowing,1440
+Asked about weather report of taluk  aland,KARNATAKA,GULBARGA,nan,Others,District Weather Forecast,district_forecast,HIGH,taluk,360
+Farmer asked query on Weather,ODISHA,SONEPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,JIND,nan,Cotton Kapas,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer wants to know information about weather forecast of sagar district of sta,MADHYA PRADESH,SAGAR,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+Farmer asked query on Weather,RAJASTHAN,JAISALMER,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,GUJARAT,KACHCHH,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MADHYA PRADESH,SATNA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MADHYA PRADESH,SHIVPURI,nan,Wheat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,ODISHA,BALANGIR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,MAU,nan,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+ask weather information,GUJARAT,JUNAGADH,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+want to know about solar pump ,UTTAR PRADESH,RAEBARELI,KHARIF,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,,360
+Farmer asked query on Weather,HARYANA,BHIWANI,nan,Groundnut pea nutmung phalli,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER REPORT jevargi OF RAIN IN YOUR TALUKWEATHER REPORT cloudy weather,KARNATAKA,GULBARGA,nan,Others,Rain Forecast,rainfall_forecast,MEDIUM,rain,180
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,NAGAUR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+information regarding weather forecasting,PUNJAB,GURDASPUR,RABI,Wheat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+rotavetar lena hai,UTTAR PRADESH,GONDA,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+Farmer asked query on Weather,RAJASTHAN,BIKANER,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Variety information of Mustard crop ,UTTAR PRADESH,MAU,nan,Others,Weather Impact on Crops,agromet_advisory,LOW,mustard crop,1440
+Farmer asked query on Weather,MADHYA PRADESH,HOSHANGABAD,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER REPORT OF DEGANGANORTH 24 PARGANAS,WEST BENGAL,NORTH 24 PARGANAS,JAYAD,Pointed Gourd,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather in hisar ,HARYANA,HISSAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather in ,HARYANA,HISSAR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information about weather ,UTTAR PRADESH,FIROZABAD,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,YAMUNA NAGAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME WEATHER INFORMATION ,RAJASTHAN,TONK,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast  ,MAHARASHTRA,AHMADNAGAR,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather report,KARNATAKA,MYSORE,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+INFORMATION REGARDING WEATHER FORCASTING,PUNJAB,GURDASPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather report,JAMMU AND KASHMIR,BARAMULLA,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information about weather condition,UTTAR PRADESH,CHITRAKOOT,RABI,Others,Current Weather Condition,current_weather,MEDIUM,weather condition,60
+Farmer asked query on Weather,MAHARASHTRA,GONDIYA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Moasam ke bare me jankari de ,UTTAR PRADESH,SULTANPUR,nan,Wheat,General Weather Forecast,city_forecast,CRITICAL,,360
+Farmer asked query on Weather,ANDHRA PRADESH,KURNOOL,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,KARNATAKA,GULBARGA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME WEATHER INFORMATION ,RAJASTHAN,NAGAUR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+FARMER ASKED ABOUT WEATHER FORECAST OF  SHRIGONDA  TAHSIL,MAHARASHTRA,AHMADNAGAR,nan,Others,District Weather Forecast,district_forecast,HIGH,tahsil,360
+Farmer asked query on Weather,KARNATAKA,RAICHUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+what is weather condition in nanded district ,MAHARASHTRA,NANDED,JAYAD,Others,Current Weather Condition,current_weather,MEDIUM,weather condition,60
+Asking about weather information ,UTTAR PRADESH,AMBEDKAR NAGAR,JAYAD,Tobacco,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WHEATER INFORMATION,BIHAR,NALANDA,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+Farmers want to know about the Weather of Khandwa Tehsil in District Khandwa in ,MADHYA PRADESH,EAST NIMAR,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+Farmer asked query on Weather,WEST BENGAL,BARDDHAMAN,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MAHARASHTRA,NANDED,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather information ,UTTAR PRADESH,SITAPUR,0,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+ Information about weather forecast of block-Mehroni in district -Lalitpur ,UTTAR PRADESH,LALITPUR,nan,Bengal Gram GramChick PeaKabuliChana,District Weather Forecast,district_forecast,HIGH,district,360
+Farmer asked query on Weather,MAHARASHTRA,WASHIM,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+FOR CALLING KISAAN CALL CENTER,DELHI,New Delhi Connaught Place,0,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+Farmer asked query on Weather,PUNJAB,GURDASPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,JAIPUR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,KOTA,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,GANGANAGAR,nan,0,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,ANDHRA PRADESH,KURNOOL,nan,Cotton Kapas,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather information for tundala,UTTAR PRADESH,FIROZABAD,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information about weather forecast of Block Aonla in District Bareilly  ,UTTAR PRADESH,BAREILLY,nan,Paddy Dhan,District Weather Forecast,district_forecast,HIGH,district,360
+How to control flower dropping in Lemon,HARYANA,KAITHAL,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+Farmer asked query on Weather,MADHYA PRADESH,TIKAMGARH,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,PALI,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,FATEHABAD,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer want to know information about weather of your sagar district,MADHYA PRADESH,SAGAR,RABI,Others,District Weather Forecast,district_forecast,HIGH,district,360
+Farmer asked query on Weather,ANDHRA PRADESH,KRISHNA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+pradhan mantri kaushal vikas yojana courses training centre in pune contact no,MAHARASHTRA,JALNA,RABI,Others,Rain Forecast,rainfall_forecast,MEDIUM,rain,180
+DBT related problem,BIHAR,NALANDA,0,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+Farmer asked query on Weather,RAJASTHAN,NAGAUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+asked about weather report,KARNATAKA,BELLARY,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT FROST SAVING,RAJASTHAN,BARMER,nan,Others,Weather Impact on Crops,agromet_advisory,LOW,frost,1440
+Asking about weather forecast,MAHARASHTRA,BULDANA,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+INFORMATION REGARDING WEATHER CONDITION OF MUKTSAR ,PUNJAB,MUKTSAR,JAYAD,Others,Current Weather Condition,current_weather,MEDIUM,weather condition,60
+Farmer asked query on Weather,RAJASTHAN,BHARATPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,FAIZABAD,nan,Sugarcane Noble Cane,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME WEATHER REPORT ,RAJASTHAN,HANUMANGARH,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,ANDHRA PRADESH,ANANTPUR,nan,Barseem,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,CHURU,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather forecasting,PUNJAB,BHATINDA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+information regarding weather forecasting,PUNJAB,AMRITSAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+information regarding weather forecasting,PUNJAB,MUKTSAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,DAUSA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,JIND,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,GANGANAGAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+mausam ki jankari,UTTAR PRADESH,KANPUR DEHAT,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,mausam,360
+TELL ME WEATHER REPORT IN JALORE,RAJASTHAN,JALOR,JAYAD,Wheat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer needs information regarding weather for dist,MADHYA PRADESH,GUNA,nan,Others,District Weather Forecast,district_forecast,HIGH,dist,360
+Farmer asked query on Weather,MADHYA PRADESH,SAGAR,nan,Soybean bhat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,KARNATAKA,KOPPAL,nan,Beans ,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,TAMILNADU,CUDDALORE,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+mausam ki jankari ,UTTAR PRADESH,MUZAFFARNAGAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,mausam,360
+INFORMATION REGARDING WEATHER,PUNJAB,FARIDKOT,KHARIF,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,KAITHAL,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather forecast of distict and talukkolar kolar,KARNATAKA,KOLAR,nan,Others,District Weather Forecast,district_forecast,HIGH,taluk,360
+Farmer asked query on Weather,RAJASTHAN,HANUMANGARH,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,BHARATPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,CHURU,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,PALWAL,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Ashking Weather Information,UTTAR PRADESH,LALITPUR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather ,HARYANA,FATEHABAD,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,LUCKNOW,nan,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER REPORT,ANDHRA PRADESH,GUNTUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather of karnal ,HARYANA,KARNAL,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+ Information regarding weather forecasting ,PUNJAB,GURDASPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,HISSAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Please give me Weather information in Dist-Mathura  ,UTTAR PRADESH,MATHURA,nan,Others,District Weather Forecast,district_forecast,HIGH,dist,360
+Farmer asked query on Weather,ANDHRA PRADESH,KRISHNA,nan,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+information of weather ,UTTAR PRADESH,SITAPUR,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,GUJARAT,BANAS KANTHA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer needs information regarding weather for disthoshangabad of state madhya p,MADHYA PRADESH,HOSHANGABAD,KHARIF,Others,District Weather Forecast,district_forecast,HIGH,dist,360
+muddebihal wr,KARNATAKA,BIJAPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+Farmer asked query on Weather,MADHYA PRADESH,DAMOH,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,NAGAUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather Report,MAHARASHTRA,SATARA,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MAHARASHTRA,BHANDARA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer want  to know information about  weather forecast  ,MADHYA PRADESH,INDORE,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather forecasting,PUNJAB,PATIALA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather in mahendragarh,HARYANA,MAHENDRA GARH,KHARIF,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,WEST BENGAL,NADIA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MAHARASHTRA,JALNA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+INFORMATION REGARDING THE WEATHER CONDITION ,PUNJAB,AMRITSAR,nan,Others,Current Weather Condition,current_weather,MEDIUM,weather condition,60
+Give Me Wheather Information  ,UTTAR PRADESH,MAU,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+Farmer asked query on Weather,MAHARASHTRA,BULDANA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,SIDDHARTH NAGAR,nan,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+ASKED ABOUT WEATHER FORECAST OF  MALKAPUR  BLOCK ,MAHARASHTRA,BULDANA,nan,Others,District Weather Forecast,district_forecast,HIGH,block,360
+TELL ME WEATHER INFORMATION ,RAJASTHAN,CHURU,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+information of weather ,UTTAR PRADESH,SAHARANPUR,KHARIF,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER REPORT ,ANDHRA PRADESH,KRISHNA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+farmer want to know Weather forecasting for your mandla district of Madhya Prade,MADHYA PRADESH,MANDLA,KHARIF,Others,District Weather Forecast,district_forecast,HIGH,district,360
+FARMER ASKED ABOUT WEATHER FORECAST OF KELAPUR BLOCK ,MAHARASHTRA,YEVATMAL,nan,Others,District Weather Forecast,district_forecast,HIGH,block,360
+Farmer want to know weather forecast information about his area,MADHYA PRADESH,SAGAR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME WEATHER INFORMATION ,RAJASTHAN,JAIPUR,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,NAGAUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast,MAHARASHTRA,GONDIYA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,TONK,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,WEST BENGAL,NORTH 24 PARGANAS,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,NAGAUR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather forecast information  ,UTTAR PRADESH,SITAPUR,nan,Wheat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,TELANGANA,KAMAREDDY,nan,Sorghum (Jowar/Great Millet),General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast ,MAHARASHTRA,KOLHAPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+INFORMATION REGARDING THE CURRENT WEATHER CONDITION,PUNJAB,SANGRUR,JAYAD,Others,Current Weather Condition,current_weather,MEDIUM,current weather,60
+weather report of indi,KARNATAKA,BIJAPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,HATHRAS,nan,Pearl Millet BajraBulrush MilletSpiked Millet,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,JHUNJHUNU,nan,0,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,BHARATPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME WEATHER INFORMATION,RAJASTHAN,HANUMANGARH,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER INFORMATION,BIHAR,PATNA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER REPORT,ANDHRA PRADESH,ANANTPUR,0,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather Information,MAHARASHTRA,JALNA,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather forecasting,PUNJAB,JALANDHAR,RABI,Wheat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,BARMER,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information about weather forecost--block--Berhani and distt--Chandauli,UTTAR PRADESH,CHANDAULI,nan,Others,District Weather Forecast,district_forecast,HIGH,block,360
+asking about weather information ,UTTARAKHAND,UDHAM SINGH NAGAR,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,BIHAR,DARBHANGA,nan,Wheat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast,MAHARASHTRA,NANDED,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MADHYA PRADESH,KATNI,nan,Mustard,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather information ,BIHAR,PURNEA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+LEAF BLIGHT IN COWPEA,ODISHA,GANJAM,nan,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+control of early shoot borer in sugarcane crops,UTTAR PRADESH,KHERI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+ Information regarding weather forecasting ,PUNJAB,MANSA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather forecasting,PUNJAB,FEROZPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information about weather from block  Miranpur  district  Muzaffarnagar ,UTTAR PRADESH,MUZAFFARNAGAR,nan,Sugarcane Noble Cane,District Weather Forecast,district_forecast,HIGH,district,360
+lobiya ki patti sikud rhi hai hai,UTTAR PRADESH,BAHRAICH,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+TELL ME WEATHER INFORMATION,RAJASTHAN,NAGAUR,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather in sirsa,HARYANA,SIRSA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+ASKING ABOUT WEATHER REPORT IN BARDDHAMAN DISTRICT,WEST BENGAL,BARDDHAMAN,KHARIF,Paddy Dhan,District Weather Forecast,district_forecast,HIGH,district,360
+ASKED FOR:WEATHER REPORT OF  ATHNI,KARNATAKA,BELGAUM,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather of Sirsa,HARYANA,SIRSA,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MADHYA PRADESH,NARSIMPUR,nan,Green Gram (Moong Bean/ Moong),General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER INFORMATION,BIHAR,MADHEPURA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,SITAPUR,nan,Sugarcane Noble Cane,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding to weather in sirsa ,HARYANA,SIRSA,KHARIF,Maize Makka,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER INFORMATION,BIHAR,ROHTAS,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER REPORT OF BELLARY,KARNATAKA,BELLARY,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+ASKING ABOUT WEATHER FORECAST ,MAHARASHTRA,KOLHAPUR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,AGRA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER REPORT,ANDHRA PRADESH,Y S R ,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MADHYA PRADESH,NEEMUCH,nan,Garlic,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,WEST BENGAL,MALDAH,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,NAGAUR,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,HATHRAS,nan,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+give me weather information ,UTTAR PRADESH,KUSHI NAGAR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,JALOR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME WEATHER INFORMATION,RAJASTHAN,GANGANAGAR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+information regarding weather forecasts ,PUNJAB,MOGA,nan,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather  ,HARYANA,YAMUNA NAGAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,HISSAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather report,KARNATAKA,BELGAUM,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather information,UTTAR PRADESH,KANPUR CITY,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather information is asking ,UTTAR PRADESH,JHANSI,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+asking about perambalur weather Report,TAMILNADU,VELLORE,0,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,GANGANAGAR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather forecasting,PUNJAB,MANSA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Ask about weather information,GUJARAT,SURENDRANAGAR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,JODHPUR,nan,Pearl Millet BajraBulrush MilletSpiked Millet,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MADHYA PRADESH,CHHINDWARA,nan,Maize Makka,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast  ,MAHARASHTRA,JALNA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asked about weather report,KARNATAKA,RAICHUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast  ,MAHARASHTRA,JALNA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information about weather forecast of block-Garautha in district-Jhansi,UTTAR PRADESH,JHANSI,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+WEATHER INFORMATION,BIHAR,PATNA,RABI,Wheat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast  ,MAHARASHTRA,BEED,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer want to know  information about weather  forecast  ,MADHYA PRADESH,BETUL,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+farmer wants to knows information about weather forecasting in datia district,MADHYA PRADESH,DATIA,RABI,Others,District Weather Forecast,district_forecast,HIGH,district,360
+TELL ME ABOUT WEATHER INFORMATION,RAJASTHAN,BARAN,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,JHARKAND,LOHARDAGA,nan,Cucumber,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER FORECAST,JAMMU AND KASHMIR,BADGAM,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+FARMER WANT TO KNOW ABOUT WEATHER INFORMATION parasia ,MADHYA PRADESH,CHHINDWARA,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,BIKANER,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,REWARI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER INFORMATION,BIHAR,BUXAR,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,DAUSA,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MADHYA PRADESH,SHEOPUR KALA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+bagalkot,KARNATAKA,BAGALKOT,nan,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+Farmer asked query on Weather,MADHYA PRADESH,SHIVPURI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather in ,HARYANA,HISSAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,KARNATAKA,RAICHUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,ALLAHABAD,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,GUJARAT,RAJKOT,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER FORECAST,JAMMU AND KASHMIR,BADGAM,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MADHYA PRADESH,EAST NIMAR,nan,Onion,General Weather Forecast,city_forecast,CRITICAL,weather,360
+ASKED ABOUT WEATHER FORECASTING ,UTTAR PRADESH,SAHARANPUR,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast Tahsil ,MAHARASHTRA,AURANGABAD,nan,Others,District Weather Forecast,district_forecast,HIGH,tahsil,360
+TELL ME  SUBSIDY ON PIPE LINE,RAJASTHAN,CHURU,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+TELL ME WEATHER INFORMATION ,RAJASTHAN,BARAN,KHARIF,Barley Jau,General Weather Forecast,city_forecast,CRITICAL,weather,360
+RAINFALL IN MURIBAHAL BLOCK BALANGIR,ODISHA,BALANGIR,nan,Others,Rain Forecast,rainfall_forecast,MEDIUM,rain,180
+asked for weather report,KARNATAKA,RAMANAGARA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,JODHPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MADHYA PRADESH,NEEMUCH,nan,Soybean bhat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,GANGANAGAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather information of Distict-Rampur in Block-Milak,UTTAR PRADESH,RAMPUR,nan,Others,District Weather Forecast,district_forecast,HIGH,block,360
+Farmer asked query on Weather,MADHYA PRADESH,UMARIA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+FARMER WANTS T0 KNOW ABOUT WEATHER FORECASTING IN DISTRICT,CHHATTISGARH,Bemetara,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+information regarding control of manganese deficiency in wheat ,PUNJAB,FEROZPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+Farmer asked query on Weather,KARNATAKA,CHIKMAGALUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+blank ,MAHARASHTRA,NASIK,nan,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+Information regarding weather in jhajjar ,HARYANA,JHAJJAR,KHARIF,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,KANSHIRAM NAGAR,nan,Groundnut pea nutmung phalli,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,SIKAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,PUNJAB,JALANDHAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,SIRSA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather in Bhiwani ,HARYANA,BHIWANI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+INFORMATION REGARDING VARIETIES OF PADDY,PUNJAB,MOGA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+Information regarding weather in Jind,HARYANA,JIND,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding to weather in hisar,HARYANA,HISSAR,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,JALOR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Plz give me weather information ,UTTAR PRADESH,UNNAO,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asked About Weather Forecasting ,MAHARASHTRA,WARDHA,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather forcasting in tikamgarh distric,MADHYA PRADESH,TIKAMGARH,KHARIF,Others,District Weather Forecast,district_forecast,HIGH,dist,360
+WEATHER INFORMATION,MAHARASHTRA,YEVATMAL,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER REPORT,JAMMU AND KASHMIR,BADGAM,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,PUNJAB,MOGA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MADHYA PRADESH,BETUL,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather forecast,JAMMU AND KASHMIR,BADGAM,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MADHYA PRADESH,TIKAMGARH,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,MAINPURI,nan,Potato,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,WEST BENGAL,BIRBHUM,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+information regarding weather FORECASTS ,PUNJAB,GURDASPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather information,UTTAR PRADESH,PILIBHIT,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+farmer want to weather information of morena district,MADHYA PRADESH,MORENA,KHARIF,Others,District Weather Forecast,district_forecast,HIGH,district,360
+Farmer asked query on Weather,UTTAR PRADESH,SULTANPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding fertilizer dose in Mustard ,HARYANA,MAHENDRA GARH,nan,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+Farmer asked query on Weather,UTTAR PRADESH,BALLIA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER IN DALHOUSIE,HIMACHAL PRADESH,CHAMBA,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather report,ODISHA,BALANGIR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast,MAHARASHTRA,PARBHANI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,GUJARAT,SURENDRANAGAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,ALWAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+information regarding weather forecasting,PUNJAB,PATHANKOT,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+INFORMATION REGARDING OF WEATHER FORECASTING,PUNJAB,HOSHIARPUR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,SIKAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER REPORT OF BARAN,RAJASTHAN,BARAN,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asked about weather forecasting ,UTTAR PRADESH,LALITPUR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,FATEHABAD,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+ASKED FOR WEATHER REPORT,KARNATAKA,BELLARY,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,JODHPUR,0,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,MAHOBA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,WEST BENGAL,BIRBHUM,nan,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,JALOR,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+asking about weather information  ,UTTAR PRADESH,HATHRAS,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer needs information regarding Weather forecast for 5 days of Sohagpur Block,MADHYA PRADESH,SHAHDOL,nan,Others,Weather Impact on Crops,agromet_advisory,LOW,harvesting,1440
+Farmer needs information regarding weather for ujjain dist of state madhya prade,MADHYA PRADESH,UJJAIN,nan,Others,District Weather Forecast,district_forecast,HIGH,dist,360
+Farmer asked query on Weather,HARYANA,REWARI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Day Weather Forecast for Hubli,KARNATAKA,DHARWAD,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+mauasm ki jankari den,UTTAR PRADESH,JALAUN,JAYAD,Wheat,General Weather Forecast,city_forecast,CRITICAL,,360
+Information regarding weather forecasting,PUNJAB,TARN TARAN,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast,MAHARASHTRA,NASIK,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+INFORMATION REGARDING WEATHER FORECASTING,PUNJAB,FEROZPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather information of Azamghar ,UTTAR PRADESH,AZAMGARH,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,SONEPAT,nan,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,ANDHRA PRADESH,ANANTPUR,nan,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather Inquiry,MAHARASHTRA,JALGAON,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather in JIND,HARYANA,JIND,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking About Weather Forecast ,MAHARASHTRA,BULDANA,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,RAMPUR,nan,Sugarcane Noble Cane,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,WEST BENGAL,BANKURA,nan,Potato,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking About Weather Forecast,MAHARASHTRA,PARBHANI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+rainfall data,ODISHA,BALANGIR,nan,Others,Rain Forecast,rainfall_forecast,MEDIUM,rain,180
+Farmer needs information regarding weather information for badarwas  of state Ma,MADHYA PRADESH,SHIVPURI,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+mausam ki jankari chahiy,UTTAR PRADESH,SITAPUR,KHARIF,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,mausam,360
+information regarding weather forecasting,PUNJAB,TARN TARAN,0,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+please give me weather information,UTTAR PRADESH,CHITRAKOOT,KHARIF,Chillies,General Weather Forecast,city_forecast,CRITICAL,weather,360
+want to know about weather report ,UTTAR PRADESH,MAHOBA,KHARIF,Black Gram urd bean,General Weather Forecast,city_forecast,CRITICAL,weather,360
+plz tell me weather information,UTTAR PRADESH,SHAHJAHANPUR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,HANUMANGARH,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asked about weather report - of turuvekere,KARNATAKA,TUMKUR,0,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,ANDHRA PRADESH,ANANTPUR,nan,Groundnut pea nutmung phalli,General Weather Forecast,city_forecast,CRITICAL,weather,360
+farmer needs information regarding weather for   seoni  dist of state madhya pra,MADHYA PRADESH,SEONI,nan,Others,District Weather Forecast,district_forecast,HIGH,dist,360
+Information regarding weather ,HARYANA,BHIWANI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,KARNATAKA,GULBARGA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather forecast,MAHARASHTRA,PARBHANI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather ,HARYANA,MAHENDRA GARH,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather information,UTTAR PRADESH,BALRAMPUR,KHARIF,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,BULANDSHAHAR,nan,Wheat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Inforamtion Of weather    ,UTTAR PRADESH,FAIZABAD,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Bellary Weather Forecast,KARNATAKA,BELLARY,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,BIHAR,ARWAL,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather in    ,HARYANA,SIRSA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,AJMER,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+RAINFALL DATA,ODISHA,BALANGIR,nan,Others,Rain Forecast,rainfall_forecast,MEDIUM,rain,180
+Information about weather forecast of block Ramgarh in district Sitapur,UTTAR PRADESH,SITAPUR,nan,Paddy Dhan,District Weather Forecast,district_forecast,HIGH,district,360
+WEATHER FORECAST,JAMMU AND KASHMIR,BARAMULLA,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather in jind ,HARYANA,JIND,KHARIF,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather report,KARNATAKA,HASSAN,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MADHYA PRADESH,GWALIOR,nan,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast,MAHARASHTRA,BEED,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER INFORMATION,JAMMU AND KASHMIR,BADGAM,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+farmer had enquired about Weather Report,MAHARASHTRA,LATUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,BARMER,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast,MAHARASHTRA,AURANGABAD,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HIMACHAL PRADESH,KULLU,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,GUJARAT,Devbhoomi Dwarka,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,JHUNJHUNU,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather in sirsa ,HARYANA,SIRSA,KHARIF,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+rainfall details,TAMILNADU,TIRUNELVELI,KHARIF,Others,Rain Forecast,rainfall_forecast,MEDIUM,rain,180
+Farmer asked query on Weather,MAHARASHTRA,YEVATMAL,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER REPORT,KARNATAKA,BELGAUM,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER REPORT OF DASARATHPUR,ODISHA,JAJAPUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Plz tell me weather information ,UTTAR PRADESH,JHANSI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,JODHPUR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,PUNJAB,AMRITSAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,ODISHA,BHADRAK,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+ Please give me Weather information in Jalaun  ,UTTAR PRADESH,JALAUN,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WRONG STATE CALL,UTTAR PRADESH,MUZAFFARNAGAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+Asked about weather information  ,UTTAR PRADESH,CHITRAKOOT,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather Condation ,MAHARASHTRA,JALNA,JAYAD,Soybean bhat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+information about weather district badaun ,UTTAR PRADESH,BADAUN,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+Asked about weather forecasting ,MAHARASHTRA,AMRAVATI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,SONEPAT,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+regarding weather forecast ,JAMMU AND KASHMIR,RAJOURI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather report,KARNATAKA,BELGAUM,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather for cast in coimbatore,TAMILNADU,COIMBATORE,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER REPORT,MAHARASHTRA,NASIK,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,JAIPUR,nan,Mustard,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,BADAUN,nan,Mustard,General Weather Forecast,city_forecast,CRITICAL,weather,360
+farmer is asking about weather information ,UTTAR PRADESH,MUZAFFARNAGAR,RABI,Wheat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,BIHAR,MUZAFFARPUR,nan,Lentil Masur,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast ,MAHARASHTRA,NANDED,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast,MAHARASHTRA,PARBHANI,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER REPORT OF BIRBHUM DISTRICT,WEST BENGAL,BIRBHUM,RABI,Potato,District Weather Forecast,district_forecast,HIGH,district,360
+Fertilizer dose in wheat,UTTARAKHAND,HARIDWAR,RABI,Wheat,General Weather Forecast,city_forecast,CRITICAL,,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,SIKAR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER OF CHITRADURGA,KARNATAKA,CHITRADURGA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,HARDOI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Wether report,MAHARASHTRA,NASIK,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+TELL ME ABOUT WEATHER INFORMATION ,DELHI,EAST DELHI Preet Vihar,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather report,ANDHRA PRADESH,CHITTOOR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,BARMER,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast ,MAHARASHTRA,NASIK,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,FATEHABAD,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+mausam ki jankari ,UTTAR PRADESH,LALITPUR,0,Others,General Weather Forecast,city_forecast,CRITICAL,mausam,360
+Farmer asked query on Weather,BIHAR,PURNEA,nan,Wheat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME WEATHER INFORMATION ,RAJASTHAN,BARAN,RABI,Wheat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+information regarding weather forecasting,PUNJAB,BHATINDA,KHARIF,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER REPORT,ANDHRA PRADESH,KURNOOL,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,BAREILLY,nan,Sugarcane Noble Cane,General Weather Forecast,city_forecast,CRITICAL,weather,360
+RAT CONTROL IN WHEAT FIELD,MAHARASHTRA,AHMADNAGAR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+farmer want to know information about in weather,MADHYA PRADESH,CHHATARPUR,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MADHYA PRADESH,TIKAMGARH,nan,Soybean bhat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,BARMER,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,MAHENDRA GARH,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,BAREILLY,nan,Mustard,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Fishery Toll free No,BIHAR,VAISHALI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+INFORMATION REGARDING WEATHER FORECASTING,HARYANA,HISSAR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather in  Hisar,HARYANA,HISSAR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+BAREILLY KA MAUSAM BATAO,UTTAR PRADESH,BAREILLY,RABI,Wheat,General Weather Forecast,city_forecast,CRITICAL,mausam,360
+farmer want to know information about varieties of irrigated wheat,MADHYA PRADESH,SHAJAPUR,0,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+Information regarding weather of bhiwani,HARYANA,MEWAT,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Asking about weather forecast,MAHARASHTRA,NASIK,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather ,HARYANA,REWARI,0,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME WEATHER INFORMETION,RAJASTHAN,PRATAPGARH,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather ,HARYANA,MAHENDRA GARH,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MAHARASHTRA,WASHIM,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,BARAN,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER INFORMATION,UTTAR PRADESH,AMBEDKAR NAGAR,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Weather Forecast,MAHARASHTRA,YEVATMAL,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,JAIPUR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Please tell me weather information ,UTTAR PRADESH,FATEHPUR,KHARIF,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,weather,360
+weather report,KARNATAKA,YADAGIRI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,BIHAR,KHAGARIA,nan,Maize Makka,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather in sirsa,HARYANA,SIRSA,RABI,Wheat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,RAJSAMAND,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,GONDA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Ask about Gernal information,GUJARAT,Aravalli,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+TODAYS WEATHER FORECAST ,JAMMU AND KASHMIR,BADGAM,JAYAD,Apple,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,NAGAUR,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,HARYANA,JIND,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+TELL ME ABOUT WEATHER INFORMATION ,RAJASTHAN,JHUNJHUNU,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,SITAPUR,nan,Mentha,General Weather Forecast,city_forecast,CRITICAL,weather,360
+mausam ki janakri leni h,UTTAR PRADESH,AZAMGARH,JAYAD,Paddy Dhan,General Weather Forecast,city_forecast,CRITICAL,mausam,360
+WEATHER FORECAST,JAMMU AND KASHMIR,BADGAM,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MADHYA PRADESH,NEEMUCH,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,MAINPURI,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+asking about weather report,KARNATAKA,GULBARGA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,CHHATTISGARH,Bemetara,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,UTTAR PRADESH,MIRZAPUR,nan,Lentil Masur,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,MAHARASHTRA,BULDANA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+asking about for weather details,TAMILNADU,VELLORE,JAYAD,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+ask about weather information  Taluka -Dhandhuka                        ,GUJARAT,AHMADABAD,nan,Others,District Weather Forecast,district_forecast,HIGH,taluk,360
+asked about weather information ,UTTAR PRADESH,JHANSI,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+WEATHER INFORMATION,BIHAR,KATIHAR,KHARIF,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+ask about weather information,GUJARAT,Devbhoomi Dwarka,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer asked query on Weather,RAJASTHAN,BARMER,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather forecasting,PUNJAB,BHATINDA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Information regarding weather forecasting,PUNJAB,BHATINDA,nan,Others,General Weather Forecast,city_forecast,CRITICAL,weather,360
+Farmer needs information regarding weather for dist of state madhya pradesh,MADHYA PRADESH,RAISEN,KHARIF,Others,District Weather Forecast,district_forecast,HIGH,dist,360
+Weather forecasting for district of Madhya Pradesh,MADHYA PRADESH,CHHINDWARA,RABI,Others,District Weather Forecast,district_forecast,HIGH,district,360
+Information about weather forecast of block Bisalpur in district Plibhit,UTTAR PRADESH,PILIBHIT,nan,Wheat,District Weather Forecast,district_forecast,HIGH,district,360
+Farmer asked query on Weather,BIHAR,BANKA,nan,Wheat,General Weather Forecast,city_forecast,CRITICAL,weather,360
+RAINFALL FORECAST IN SAMBALPUR DIST,ODISHA,SAMBALPUR,KHARIF,Others,Rain Forecast,rainfall_forecast,MEDIUM,rain,180
+Farmer asked query on Weather,HIMACHAL PRADESH,SIRMAUR,nan,Radish,General Weather Forecast,city_forecast,CRITICAL,weather,360
+RAINFALL FORECAST OF REMUNA BLOCK BALASORE,ODISHA,BALASORE,nan,Others,Rain Forecast,rainfall_forecast,MEDIUM,rain,180
+INFORMATION REGARDING TO LATE WHEAT VARIETIES,PUNJAB,MANSA,RABI,Others,General Weather Forecast,city_forecast,CRITICAL,,360
+Information about weather district AGRA,UTTAR PRADESH,AGRA,nan,Others,District Weather Forecast,district_forecast,HIGH,district,360
+Farmer asked query on Weather,MADHYA PRADESH,CHHATARPUR,nan,Soybean bhat,General Weather Forecast,city_forecast,CRITICAL,weather,360

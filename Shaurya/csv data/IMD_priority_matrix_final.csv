@@ -1,0 +1,8 @@
+Priority,Farmer_Need,Demand_%,IMD_Data_Component,Required_Fields,Freshness
+1,General Weather Forecast,91.38014771,Short Range Weather Forecast,"temperature, rainfall, humidity, wind",3-hour
+2,District Weather Forecast,4.663044199,District Forecast,"temperature, rainfall",3-hour
+3,Rain Forecast,1.921733199,Rainfall Prediction,rainfall_mm,3-hour
+4,Current Weather Condition,1.41738306,Current Weather Observation,"temperature, humidity, wind_speed",hourly
+5,Short Term Forecast,0.447812654,3-5 Day Forecast,"temperature, rainfall",6-hour
+6,Weather Impact on Crops,0.169879178,Agro-Meteorological Advisory,"rainfall, storm, hail",real-time
+,,100,,,

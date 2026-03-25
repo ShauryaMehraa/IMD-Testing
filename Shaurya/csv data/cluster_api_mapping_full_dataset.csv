@@ -1,0 +1,84 @@
+cluster,farmer_need,IMD_API,count
+3,General Weather Forecast,City Weather 7-day Forecast,6256573
+3,General Weather Forecast,Current Weather API,6256573
+3,General Weather Forecast,City Weather LatLon Forecast,6256573
+27,General Weather Forecast,City Weather 7-day Forecast,1113802
+27,General Weather Forecast,Current Weather API,1113802
+27,General Weather Forecast,City Weather LatLon Forecast,1113802
+15,General Weather Forecast,City Weather 7-day Forecast,240909
+15,General Weather Forecast,Current Weather API,240909
+15,General Weather Forecast,City Weather LatLon Forecast,240909
+20,Rain Forecast,District Wise Rainfall,170137
+20,Rain Forecast,5 Day Subdivisional Rainfall,170137
+35,Current Weather Condition,AWS ARG Weather Station Data,163029
+35,Current Weather Condition,Station Wise Nowcast,163029
+36,District Weather Forecast,District Wise Nowcast,102497
+36,District Weather Forecast,5 Day District Rainfall Forecast,102497
+41,District Weather Forecast,District Wise Nowcast,98205
+41,District Weather Forecast,5 Day District Rainfall Forecast,98205
+14,General Weather Forecast,City Weather 7-day Forecast,98136
+14,General Weather Forecast,Current Weather API,98136
+14,General Weather Forecast,City Weather LatLon Forecast,98136
+9,District Weather Forecast,District Wise Nowcast,64584
+9,District Weather Forecast,5 Day District Rainfall Forecast,64584
+12,District Weather Forecast,District Wise Nowcast,63738
+12,District Weather Forecast,5 Day District Rainfall Forecast,63738
+40,District Weather Forecast,District Wise Nowcast,49767
+40,District Weather Forecast,5 Day District Rainfall Forecast,49767
+52,District Weather Forecast,District Wise Nowcast,43465
+52,District Weather Forecast,5 Day District Rainfall Forecast,43465
+17,Frost / Crop Protection,District Wise Warning,36092
+7,District Weather Forecast,District Wise Nowcast,35614
+7,District Weather Forecast,5 Day District Rainfall Forecast,35614
+26,District Weather Forecast,District Wise Nowcast,31027
+26,District Weather Forecast,5 Day District Rainfall Forecast,31027
+2,Rain Forecast,District Wise Rainfall,28885
+2,Rain Forecast,5 Day Subdivisional Rainfall,28885
+1,District Weather Forecast,District Wise Nowcast,28883
+1,District Weather Forecast,5 Day District Rainfall Forecast,28883
+4,Rain Forecast,District Wise Rainfall,27307
+4,Rain Forecast,5 Day Subdivisional Rainfall,27307
+53,District Weather Forecast,District Wise Nowcast,26387
+53,District Weather Forecast,5 Day District Rainfall Forecast,26387
+32,District Weather Forecast,District Wise Nowcast,25943
+32,District Weather Forecast,5 Day District Rainfall Forecast,25943
+22,District Weather Forecast,District Wise Nowcast,25095
+22,District Weather Forecast,5 Day District Rainfall Forecast,25095
+45,District Weather Forecast,District Wise Nowcast,24712
+45,District Weather Forecast,5 Day District Rainfall Forecast,24712
+48,District Weather Forecast,District Wise Nowcast,23498
+48,District Weather Forecast,5 Day District Rainfall Forecast,23498
+56,District Weather Forecast,District Wise Nowcast,21940
+56,District Weather Forecast,5 Day District Rainfall Forecast,21940
+0,District Weather Forecast,District Wise Nowcast,20614
+0,District Weather Forecast,5 Day District Rainfall Forecast,20614
+6,District Weather Forecast,District Wise Nowcast,20192
+6,District Weather Forecast,5 Day District Rainfall Forecast,20192
+33,District Weather Forecast,District Wise Nowcast,16390
+33,District Weather Forecast,5 Day District Rainfall Forecast,16390
+37,District Weather Forecast,District Wise Nowcast,14970
+37,District Weather Forecast,5 Day District Rainfall Forecast,14970
+50,District Weather Forecast,District Wise Nowcast,14767
+50,District Weather Forecast,5 Day District Rainfall Forecast,14767
+31,District Weather Forecast,District Wise Nowcast,13905
+31,District Weather Forecast,5 Day District Rainfall Forecast,13905
+39,District Weather Forecast,District Wise Nowcast,13282
+39,District Weather Forecast,5 Day District Rainfall Forecast,13282
+46,District Weather Forecast,District Wise Nowcast,11814
+46,District Weather Forecast,5 Day District Rainfall Forecast,11814
+5,Weather Impact on Crops,District Wise Warning,11489
+5,Weather Impact on Crops,Subdivision Wise Warning,11489
+55,District Weather Forecast,District Wise Nowcast,10766
+55,District Weather Forecast,5 Day District Rainfall Forecast,10766
+49,District Weather Forecast,District Wise Nowcast,10703
+49,District Weather Forecast,5 Day District Rainfall Forecast,10703
+44,District Weather Forecast,District Wise Nowcast,9085
+44,District Weather Forecast,5 Day District Rainfall Forecast,9085
+57,District Weather Forecast,District Wise Nowcast,9018
+57,District Weather Forecast,5 Day District Rainfall Forecast,9018
+38,District Weather Forecast,District Wise Nowcast,7755
+38,District Weather Forecast,5 Day District Rainfall Forecast,7755
+23,Short Term Forecast,District Wise Nowcast,7193
+19,Rainfall Data,District Wise Rainfall,3664
+43,District Weather Forecast,District Wise Nowcast,2685
+43,District Weather Forecast,5 Day District Rainfall Forecast,2685

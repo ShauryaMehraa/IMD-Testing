@@ -15,7 +15,7 @@ import re
 from .config import NEED_TO_ENDPOINT, PRIORITY, FRESHNESS_MINUTES, FARMER_NEED
 
 
-# ── Keyword rules (order = priority of matching) ──────────────
+# Keyword rules (order = priority of matching)
 # Each rule: (farmer_need, list_of_keywords)
 # The first rule that matches wins.
 

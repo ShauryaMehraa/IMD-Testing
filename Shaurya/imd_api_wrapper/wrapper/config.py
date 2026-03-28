@@ -5,7 +5,7 @@
 # the cluster distribution document.
 # ─────────────────────────────────────────────────────────────
 
-# ── IMD endpoint slugs ───────────────────────────────────────
+# IMD endpoint slugs 
 ENDPOINTS = {
     "city_forecast"    : "/weather/city-forecast",          # CRITICAL
     "district_forecast": "/weather/district-forecast",      # HIGH
@@ -15,7 +15,7 @@ ENDPOINTS = {
     "agromet_advisory" : "/weather/agromet-advisory",       # LOW
 }
 
-# ── Data freshness in minutes ─────────────────────────────────
+# Data freshness in minutes 
 FRESHNESS_MINUTES = {
     "city_forecast"    : 360,   # 6 hours
     "district_forecast": 360,   # 6 hours
@@ -25,7 +25,7 @@ FRESHNESS_MINUTES = {
     "agromet_advisory" : 1440,  # daily
 }
 
-# ── Priority tiers ────────────────────────────────────────────
+# Priority tiers 
 PRIORITY = {
     "city_forecast"    : "CRITICAL",
     "district_forecast": "HIGH",
@@ -35,7 +35,7 @@ PRIORITY = {
     "agromet_advisory" : "LOW",
 }
 
-# ── Farmer need labels (from KCC clustering) ──────────────────
+# Farmer need labels (from KCC clustering) 
 FARMER_NEED = {
     "city_forecast"    : "General Weather Forecast",
     "district_forecast": "District Weather Forecast",
@@ -45,7 +45,7 @@ FARMER_NEED = {
     "agromet_advisory" : "Weather Impact on Crops",
 }
 
-# ── Total queries per farmer need (from 15.5M KCC dataset) ───
+# Total queries per farmer need (from 15.5M KCC dataset) 
 TOTAL_QUERIES_PER_NEED = {
     "General Weather Forecast"  : 13_706_092,
     "District Weather Forecast" :  1_335_570,
@@ -57,7 +57,7 @@ TOTAL_QUERIES_PER_NEED = {
 
 TOTAL_WEATHER_QUERIES = 15_549_889   # full KCC weather dataset
 
-# ── All 59 clusters → farmer need mapping ────────────────────
+# All 59 clusters → farmer need mapping 
 # Built from the cluster distribution document.
 CLUSTER_TO_NEED = {
     # General Weather Forecast (13,706,092 queries)
@@ -132,7 +132,7 @@ CLUSTER_TO_NEED = {
     51: "Weather Impact on Crops",
 }
 
-# ── Farmer need → endpoint key ────────────────────────────────
+# Farmer need → endpoint key 
 NEED_TO_ENDPOINT = {
     "General Weather Forecast"  : "city_forecast",
     "District Weather Forecast" : "district_forecast",
@@ -142,7 +142,7 @@ NEED_TO_ENDPOINT = {
     "Weather Impact on Crops"   : "agromet_advisory",
 }
 
-# ── Cluster query counts (from KCC analysis) ──────────────────
+# Cluster query counts (from KCC analysis) 
 CLUSTER_QUERY_COUNTS = {
     3 :6_256_573, 18:3_060_474, 28:1_154_643, 27:1_113_802,
     58:1_091_123, 10:  559_282, 54:  349_023, 15:  240_909,

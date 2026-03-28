@@ -1,15 +1,16 @@
 # imd_api_wrapper/wrapper/client.py
 # ─────────────────────────────────────────────────────────────
 # IMD API Client
-# Currently runs in MOCK mode (no real credentials needed).
-# Switch to LIVE by setting BASE_URL and API_KEY in config.py
-# and flipping USE_MOCK = False below.
+# Live mode: IP-whitelist authentication (no API key required).
+# Set API_KEY if using bearer token auth instead.
 # ─────────────────────────────────────────────────────────────
 
 import time
 import random
+import json
 import logging
 from datetime import datetime
+import requests
 
 from .config import (
     ENDPOINTS,
@@ -20,13 +21,13 @@ from .config import (
 
 logger = logging.getLogger("IMDClient")
 
-# ── Toggle ────────────────────────────────────────────────────
-BASE_URL = "MOCK"       # replace with real URL when available
-API_KEY  = "MOCK"       # replace with real API key when available
-USE_MOCK = (BASE_URL == "MOCK" or API_KEY == "MOCK")
+# Toggle 
+BASE_URL = "http://100.100.108.101:18080"
+API_KEY  = ""  # Optional. Leave empty for IP-whitelist auth mode.
+USE_MOCK = False
 
 
-# ── Season helper (drives realistic mock values) ──────────────
+# Season helper (drives realistic mock values) 
 def _season() -> str:
     m = datetime.now().month
     if m in [3, 4, 5]:   return "summer"
@@ -209,7 +210,7 @@ def _mock_agromet_advisory(district: str, state: str = "",
     }
 
 
-# ── Response normaliser ───────────────────────────────────────
+# Response normaliser 
 
 def _normalise(raw: dict, endpoint_key: str) -> dict:
     """Converts raw response to a consistent schema."""
@@ -248,25 +249,40 @@ def _fetch(endpoint_key: str, params: dict,
         raw = mock_fn(**params)
         return _normalise(raw, endpoint_key)
 
-    # ── LIVE MODE (uncomment when credentials are ready) ──────
-    # import requests
-    # url     = BASE_URL.rstrip("/") + ENDPOINTS[endpoint_key]
-    # headers = {"Authorization": f"Bearer {API_KEY}"}
-    # last_err = None
-    # for attempt in range(1, max_retries + 1):
-    #     try:
-    #         resp = requests.get(url, params=params,
-    #                             headers=headers, timeout=timeout)
-    #         if resp.status_code == 200:
-    #             return _normalise(resp.json(), endpoint_key)
-    #         if resp.status_code == 429:
-    #             time.sleep(5); continue
-    #         last_err = f"HTTP {resp.status_code}"
-    #     except Exception as exc:
-    #         last_err = str(exc)
-    #     if attempt < max_retries:
-    #         time.sleep(attempt)
-    # raise RuntimeError(f"[{endpoint_key}] Failed: {last_err}")
+    # LIVE MODE: IP-whitelist supported (no API key required).
+    url = BASE_URL.rstrip("/") + ENDPOINTS[endpoint_key]
+    headers = {"Authorization": f"Bearer {API_KEY}"} if API_KEY else {}
+    last_err = None
+    auth_mode = "bearer" if API_KEY else "ip-whitelist"
+    logger.info("[LIVE] %s | url=%s | auth=%s", endpoint_key, url, auth_mode)
+
+    for attempt in range(1, max_retries + 1):
+        try:
+            resp = requests.get(url, params=params, headers=headers, timeout=timeout)
+            if resp.status_code == 200:
+                try:
+                    json_data = resp.json()
+                    logger.info("[LIVE OK] %s | status=200 | bytes=%d", endpoint_key, len(resp.content))
+                    return _normalise(json_data, endpoint_key)
+                except json.JSONDecodeError as je:
+                    last_err = f"JSON decode error: {str(je)}"
+                    logger.error("[LIVE ERROR] %s | JSON parse failed: %s", endpoint_key, last_err)
+
+            if resp.status_code == 429:
+                logger.warning("[LIVE RETRY] %s | rate limited (429), waiting 5s", endpoint_key)
+                time.sleep(5)
+                continue
+
+            last_err = f"HTTP {resp.status_code}: {resp.text[:200]}"
+            logger.error("[LIVE ERROR] %s | HTTP %d", endpoint_key, resp.status_code)
+        except Exception as exc:
+            last_err = str(exc)
+            logger.error("[LIVE ERROR] %s | exception: %s", endpoint_key, last_err)
+
+        if attempt < max_retries:
+            time.sleep(attempt)
+
+    raise RuntimeError(f"[{endpoint_key}] Failed: {last_err}")
 
 
 # ── Public API class ──────────────────────────────────────────
@@ -290,7 +306,7 @@ class IMDClient:
         mode = "MOCK" if USE_MOCK else "LIVE"
         logger.info("IMDClient initialised | mode=%s", mode)
 
-    # ── CRITICAL ─────────────────────────────────────────────
+    # CRITICAL
 
     def get_city_forecast(self, city: str, state: str = "") -> dict:
         """
@@ -301,7 +317,7 @@ class IMDClient:
         """
         return _fetch("city_forecast", {"city": city, "state": state})
 
-    # ── HIGH ─────────────────────────────────────────────────
+    # HIGH 
 
     def get_district_forecast(self, district: str, state: str = "") -> dict:
         """
@@ -313,7 +329,7 @@ class IMDClient:
         """
         return _fetch("district_forecast", {"district": district, "state": state})
 
-    # ── MEDIUM ───────────────────────────────────────────────
+    # MEDIUM
 
     def get_rainfall_forecast(self, district: str, state: str = "",
                                days: int = 5) -> dict:
@@ -337,7 +353,7 @@ class IMDClient:
         """
         return _fetch("current_weather", {"city": city, "state": state})
 
-    # ── LOW ──────────────────────────────────────────────────
+    # LOW
 
     def get_nowcast(self, district: str, state: str = "") -> dict:
         """
@@ -359,7 +375,7 @@ class IMDClient:
         return _fetch("agromet_advisory",
                       {"district": district, "state": state, "crop": crop})
 
-    # ── Convenience ──────────────────────────────────────────
+    # Convenience
 
     def get_full_profile(self, city: str, district: str,
                          state: str = "", crop: str = "") -> dict:
